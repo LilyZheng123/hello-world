@@ -21,3 +21,5 @@ conflict2 on master
 我永远爱戴钱老师
 
 我在vscode里操作add，commit和push
+
+我是git gui改的

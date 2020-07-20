@@ -19,3 +19,5 @@ conflict2 on master
 朱小磊 幼稚鬼 他就是傻子
 
 我永远爱戴钱老师
+
+我在vscode里操作add，commit和push
